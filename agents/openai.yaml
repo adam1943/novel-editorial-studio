@@ -1,0 +1,7 @@
+interface:
+  display_name: "长篇小说总编"
+  short_description: "百万字长篇小说自动连载、逐章审计、修订与平台合规管理"
+  default_prompt: "Use $novel-editorial-studio to run an autonomous long-form novel pipeline with per-chapter audit, revision, and platform compliance checks."
+
+policy:
+  allow_implicit_invocation: true
