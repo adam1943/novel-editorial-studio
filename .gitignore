@@ -1,0 +1,11 @@
+# Local Python artifacts
+__pycache__/
+*.py[cod]
+
+# macOS Finder metadata
+.DS_Store
+
+# Local planning notes for the publication task
+task_plan.md
+findings.md
+progress.md
